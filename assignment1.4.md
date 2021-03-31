@@ -10,7 +10,7 @@
 
 3. a link to an external website. 
 
-   [百度](https://www.baidu.com"baidu")
+   [百度](https://www.baidu.com "baidu")
 
 4. a link between markdown pages. Link from README.md to the second markdown file and from the second markdown file back to the README.md. 
 
