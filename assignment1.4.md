@@ -20,7 +20,7 @@
 
 5. an image that is a file in the directory. 
 
-   ![这是图片](瑞士.jpg "Magic Gardens")
+   ![这是图片](ruishi.jpg "Magic Gardens")
 
 
 
